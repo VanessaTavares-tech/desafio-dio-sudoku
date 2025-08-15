@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 import static java.util.Objects.isNull;
