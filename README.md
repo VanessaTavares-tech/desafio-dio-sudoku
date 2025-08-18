@@ -30,3 +30,7 @@ O desenvolvimento deste projeto também estimula a **organização de código, r
 - Jogabilidade via terminal
 - Jogabilidade via interface gráfica
 - Feedback visual ou textual para jogadas válidas/inválidas
+
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues com sugestões ou enviar pull requests com melhorias no código, nas interfaces ou na lógica do jogo.
