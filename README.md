@@ -30,6 +30,3 @@ O desenvolvimento deste projeto também estimula a **organização de código, r
 - Jogabilidade via terminal
 - Jogabilidade via interface gráfica
 - Feedback visual ou textual para jogadas válidas/inválidas
-
-## Estrutura do Projeto
-
