@@ -17,7 +17,7 @@ O desenvolvimento deste projeto também estimula a **organização de código, r
 - **Linguagem**: Java
 - **Interfaces**:
   - **Terminal**: interação via entrada e saída de texto (console)
-  - **Gráfica**: interface visual (Swing ou JavaFX — especifique aqui)
+  - **Gráfica**: interface visual (Swing)
 - **Conceitos Aplicados**:
   - Lógica de validação e resolução de Sudoku
   - Orientação a Objetos (POO)
